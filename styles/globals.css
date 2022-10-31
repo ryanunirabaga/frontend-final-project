@@ -1,0 +1,80 @@
+.readNovelsLogo {
+  filter: invert(100%);
+}
+
+body {
+  /* color: white; */
+  background: #303030;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #313137;
+  color: #00d9ff;
+}
+.navbar-drawer {
+  background-color: #313137;
+  color: #00d9ff;
+}
+.grid-1 {
+  min-height: 500px;
+  background-image: url("../public/Homepage1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  justify-content: space-around;
+  padding-top: 2;
+}
+.login-grid {
+  background-color: #313137;
+  /* color: #00d9ff; */
+}
+.card {
+  background-color: #424242;
+}
+.flex-item-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-color-primary {
+  color: #00d9ff;
+}
+.description-card-block {
+  display: block;
+  width: 300px;
+}
+.novel-card-block {
+  display: block;
+  width: 400px;
+}
+.home-card {
+  background-color: #434343;
+  min-height: 250px;
+  justify-content: space-around;
+  color: #ff9800;
+}
+.home-card-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 345px;
+}
+.download-link {
+  color: #ff9800;
+  text-decoration: none;
+}
+.download-link :hover {
+  color: #f57c00;
+  text-decoration: underline;
+}
+.home-card-icon {
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 10px;
+}
+.home-card-text {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
