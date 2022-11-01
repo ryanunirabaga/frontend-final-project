@@ -22,7 +22,7 @@ export function LatestNovels(props) {
         >
             <Carousel>
                 {
-                    folderArray.map( (item, i) => <Item key={i} item={item} /> )
+                    folderArray?.map( (item, i) => <Item key={i} item={item} /> )
                 }
             </Carousel>
         </Box>
