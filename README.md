@@ -2,6 +2,11 @@
 
 This is a Japanese Library site where you can download your favorite Japanese Light Novels without any popup ads or virus.
 
+Tools used:
+- firebase Authentication
+- firebase Storage
+- Material UI
+
 Start browsing by visiting [ReadJPNovels](https://frontend-final-project-vert.vercel.app/)
 
 
