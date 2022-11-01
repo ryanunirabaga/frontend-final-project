@@ -2,7 +2,7 @@
 
 This is a Japanese Library site where you can download your favorite Japanese Light Novels without any popup ads or virus.
 
-Start browsing by visiting [ReadJPNovels](https://vercel.com/ryanunirabaga/frontend-final-project)
+Start browsing by visiting [ReadJPNovels](https://frontend-final-project-vert.vercel.app/)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
